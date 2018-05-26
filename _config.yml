@@ -2,7 +2,7 @@
 title: techkang
 SEOTitle: 康昇的博客 | techkang Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: techkang@gmail.com
 description: "Every failure is leading towards success."
 keyword: "techkang, Kang Sheng, 康昇"
 url: "http://techkang.github.io"          # your host, for absolute URL
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "USTC",
+        href: "http://ustc.edu.cn"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
@@ -108,7 +108,7 @@ friends: [
         title: "Apple",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Google",
+        href: "https://www.google.com/"
     }
 ]
