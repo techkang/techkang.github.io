@@ -1,10 +1,10 @@
 ---
 layout:     post  
-title:      代理软件推荐
-subtitle:   科学上网    
-date:       2020-02-28  
+title:      pytorch中dataloader的num_workers设置  
+subtitle:   科学上网  
+date:       2020-07-14  
 author:     techkang  
-header-img: img/post-bg-pytorch.jpg  
+header-img: img/post-bg-pytorch.png  
 catalog: true  
 tags:  
     - deep learning 
