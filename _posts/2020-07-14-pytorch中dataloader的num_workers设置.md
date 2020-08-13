@@ -1,7 +1,7 @@
 ---
 layout:     post  
 title:      pytorch中dataloader的num_workers设置  
-subtitle:   科学上网  
+subtitle:   炼丹  
 date:       2020-07-14  
 author:     techkang  
 header-img: img/post-bg-pytorch.png  
